@@ -704,6 +704,7 @@ dtb-$(CONFIG_SOC_IMX6UL) += \
 	mys-6ul-14x14-gpmi-weim.dtb \
 	mys-6ull-14x14-emmc.dtb \
 	mys-6ull-14x14-gpmi-weim.dtb \
+	ve-6ull-14x14-gpmi-weim.dtb \
         myd-y6ull-gpmi-weim.dtb  \
         myd-y6ull-emmc.dtb \
         myd-y6ul-gpmi-weim.dtb \
